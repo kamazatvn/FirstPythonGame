@@ -1,0 +1,21 @@
+You are the hero which kills and save the village from the aliens
+You can choose between 3 heroes and they have different abilities
+  1. Adam:
+    - Have a gun that should fast and have a lot of bullets
+    - Medium health but move fast
+    - Special ability: Bring out machine gun and kill every enemies in one scene
+  2. Lua:
+    - Have a magic wand that kill slowly but effectively
+    - Low health but can heal herself after every 3 seconds
+    - Special ability: Call out her big pet and support her for 3 minutes
+  3. Rob:
+    - Have a bear knuckle that is very powerful, 1 hit 1 death
+    - Have a lot of health but move very slowly
+    - Special ability: Jump to the sky and jump down, kill enemy around him and stun everyone in the scene for 10 seconds
+
+ENTER THE SCENE:
+  There is a village called Pragio in south Vietnam. It is a peaceful village
+  BUT there is suddenly a spaceship which spawn aliens
+  There are 3 scenes which have different types of aliens. You need to use your ability wisely because you can only use it once
+  Finish by destroyed everyone.
+
