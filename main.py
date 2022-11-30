@@ -214,13 +214,13 @@ def start():
     while True:
         x = input("> ")
         if x == "1":
-            print(adam.information())
+            adam.information()
             return chosen_character.append("Adam")
         elif x == "2":
-            print(eva.information())
+            eva.information()
             return chosen_character.append("Eva")
         elif x == "3":
-            print(rob.information())
+            rob.information()
             return chosen_character.append("Rob")
 
         else:
